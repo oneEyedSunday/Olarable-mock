@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.pre {
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 1rem;
+  font-family: monospace;
+  min-height: calc(1.5em + 0.75rem + 2px);
+}
