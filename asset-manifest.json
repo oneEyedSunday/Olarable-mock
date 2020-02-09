@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Olarable-mock/static/css/main.de82008c.chunk.css",
+    "main.js": "/Olarable-mock/static/js/main.f13712cc.chunk.js",
+    "main.js.map": "/Olarable-mock/static/js/main.f13712cc.chunk.js.map",
+    "runtime-main.js": "/Olarable-mock/static/js/runtime-main.d8361871.js",
+    "runtime-main.js.map": "/Olarable-mock/static/js/runtime-main.d8361871.js.map",
+    "static/css/2.64a99b10.chunk.css": "/Olarable-mock/static/css/2.64a99b10.chunk.css",
+    "static/js/2.6c428c2b.chunk.js": "/Olarable-mock/static/js/2.6c428c2b.chunk.js",
+    "static/js/2.6c428c2b.chunk.js.map": "/Olarable-mock/static/js/2.6c428c2b.chunk.js.map",
+    "index.html": "/Olarable-mock/index.html",
+    "precache-manifest.48be888683f6c7f3628dca4dce89f657.js": "/Olarable-mock/precache-manifest.48be888683f6c7f3628dca4dce89f657.js",
+    "service-worker.js": "/Olarable-mock/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/Olarable-mock/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.de82008c.chunk.css.map": "/Olarable-mock/static/css/main.de82008c.chunk.css.map",
+    "static/js/2.6c428c2b.chunk.js.LICENSE.txt": "/Olarable-mock/static/js/2.6c428c2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8361871.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.6c428c2b.chunk.js",
+    "static/css/main.de82008c.chunk.css",
+    "static/js/main.f13712cc.chunk.js"
+  ]
+}
